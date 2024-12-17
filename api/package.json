@@ -9,9 +9,9 @@
 	},
 	"dependencies": {
 		"@cloudflare/itty-router-openapi": "^1.0.1",
-		"@hono/node-server": "^1.8.2",
+		"@hono/node-server": "^1.10.1",
 		"fuse.js": "^7.0.0",
-		"hono": "^4.0.10",
+		"hono": "^4.6.5",
 		"js-yaml": "^4.1.0"
 	},
 	"devDependencies": {
